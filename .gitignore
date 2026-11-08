@@ -1,0 +1,14 @@
+data/
+_internal/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.exe
+*.zip
+*.db*
+*.csv
+*.xlsx
+.env*
